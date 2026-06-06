@@ -1,6 +1,6 @@
 # Shreya Pet Care Shop — Demo Website
 
-A demo website concept built for a local pet shop in Maninagar, Ahmedabad.
+A demo website concept built for a local pet shop in Maninagar, Ahmedabad.Let's see if they gets convinced😉!!
 
 ## Features
 - Mobile responsive design
